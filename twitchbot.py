@@ -20,7 +20,7 @@ while (1==1):
 		HOST = "irc.twitch.tv"
 		PORT = 6667
 		NICK = "botbot2222"
-		PASS = 'oauth:z4hkfdl6fd18dloput20zkroktg9z3'
+		PASS = 'your-auth-key-here'
 		globaltime = 0
 		delay_dict = {}
 		command_list = {}
